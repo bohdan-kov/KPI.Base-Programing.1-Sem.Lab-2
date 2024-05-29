@@ -1,0 +1,5 @@
+﻿  ConsoleApplication2.cpp
+D:\Documents\cpp\Лабораторні ОП\№2\ConsoleApplication2\ConsoleApplication2.cpp(14,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\cpp\Лабораторні ОП\№2\ConsoleApplication2\ConsoleApplication2.cpp(20,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\cpp\Лабораторні ОП\№2\ConsoleApplication2\ConsoleApplication2.cpp(26,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ConsoleApplication2.vcxproj -> D:\Documents\cpp\Лабораторні ОП\№2\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe

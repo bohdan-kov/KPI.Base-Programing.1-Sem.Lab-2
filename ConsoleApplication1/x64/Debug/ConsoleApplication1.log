@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+D:\Documents\cpp\Лабораторні ОП\№2\ConsoleApplication1\ConsoleApplication1.cpp(10,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Documents\cpp\Лабораторні ОП\№2\ConsoleApplication1\ConsoleApplication1.cpp(18,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Documents\cpp\Лабораторні ОП\№2\ConsoleApplication1\ConsoleApplication1.cpp(21,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ConsoleApplication1.vcxproj -> D:\Documents\cpp\Лабораторні ОП\№2\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
